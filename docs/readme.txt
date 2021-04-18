@@ -18,3 +18,7 @@ to. I wanted to help you learn.  You can ask it
 How to say something, and it will reply what to say.
 Also, all the replies in hindi performs a lookup
 for the translation back to english.
+
+First Functional Screenshot
+
+
